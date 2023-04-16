@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SofieFreyr
+- 👋 Hi, I’m @SofiFreyr
 - 👀 I’m interested ;)
 - 💻 I work as Software Engineer at iDalko
 - 🌱 Trying to deepen my understanding of Scala, plus some GO and Python for pet projects
